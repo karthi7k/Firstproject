@@ -1,0 +1,34 @@
+
+h3
+{
+color:#5e4567;
+font-size:8px;
+font-family: 'Lato', serif;
+}
+
+
+h4
+{
+color:#ffffff;
+font-size:18px;
+font-family: 'Lato', serif;
+}
+
+li
+{
+	color:#8F939E;
+	list-style-type:none;
+	background-color:#1D2939;
+	display: block;
+    text-align: center;
+    padding: 5px;
+	margin-right:10px;
+	margin-top:5px;
+    text-decoration: none;
+	font-family: 'Lato', serif;
+}
+li:hover
+{
+color:#FFFFFF;
+background-color:#1CAF9A;
+}
